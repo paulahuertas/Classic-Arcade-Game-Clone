@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+}
+
+/* Score and Lives */
+
+.game-stats {
+	margin: 3rem auto 0 auto;
+	font-style: normal;
+	width: 33%;
+	color: green;
+	font-size: 16pt;
+	font-weight: bold;
+	background: yellow;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
